@@ -663,3 +663,55 @@ I’m really sorry for being late.
 I’m sorry if my words came across the wrong way.
 I apologize for any confusion I may have caused.
 I want to make things right and apologize for my actions.
+Could I see the menu, please? 
+Are you ready to order?
+I’ll have a…
+Can I get a refill of my water?
+I’d like to make a reservation for tonight.
+Could we have separate bills, please?
+How long is the wait for a table?
+Could I have a check, please?
+Do you have any vegetarian/vegan/gluten-free options? 
+Are there any nuts/dairy/[ingredient] in this dish?
+Do you have outdoor seating?
+Do you accept credit cards?
+Can I order takeout? 
+What time works best for you?
+Are you available next week?
+Let’s set up a time to chat.
+I’d like to book an appointment for Thursday.
+Can we meet on Monday at 3 PM?
+Let’s plan a get-together this weekend.
+Are you free in the morning or afternoon?
+Can we reschedule our meeting for later this week?
+I’m flexible with the timing, so let me know what works for you.
+Can you make it on Wednesday?
+What’s your email address?
+Let’s take a group selfie.
+I’ve created a group chat.
+Sorry, my phone signal is pretty bad right now.
+Sorry, my wifi is lagging.
+I just got a new phone.
+Can you send me the link to that article?
+My laptop is running really slow.
+I spend way too much time scrolling on social media.
+What’s the wifi password?
+Let’s have a video call?
+I’ll screenshare so I can show you what I’m working on.
+Can you recommend any good restaurants in the area?
+Where is the nearest ATM?
+Is there a public restroom nearby?
+What’s the best way to get to the airport from here?
+Can I rent a bicycle/scooter in this city?
+Is there free Wi-Fi available here?
+I need a taxi to the airport, please.
+Could you take a photo of us, please?
+Where can I buy tickets?
+Is this seat taken?
+I’m lost. Can you help me find my way back to…?
+Is it safe to walk alone at night?
+What time is check-in/check-out?
+Can I request a late check-out?
+Is there an entrance fee?
+What’s the currency exchange rate?
+Is there a tourist information center nearby?
