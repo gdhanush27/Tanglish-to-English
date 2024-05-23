@@ -37,8 +37,8 @@ The dataset consists of pairs of Thanglish and English sentences. Thanglish sent
 4. After training, use the trained model for translation by providing a Thanglish sentence as input.
 
 ## Contributors
-- Dinesh Kumar M
-- Dhanush G 
+- [Dinesh Kumar M](https://github.com/imdineshkumar24)
+- [Dhanush G](https://github.com/gdhanush27)
 - Vignesh R
 
 ## License
